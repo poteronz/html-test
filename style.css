@@ -1,0 +1,33 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    width: 500px;
+    padding: 100px;
+    border-radius: 25px;
+    border: 10px solid gray;
+    color: white;
+}
+    
+    
+p {
+    text-align: center;
+    font-size: 20px;
+    }
+    
+    
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+    
+    
+button:hover {
+    background-color: darkgreen;
+}
